@@ -141,7 +141,8 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
-f4a33fd (HEAD -> master, origin/master) first update
+e7f0117 (HEAD -> master) Answer  fix
+f4a33fd (origin/master) first update
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
