@@ -18,7 +18,7 @@
 |---|---|---|
 | Q1 l1 (in load_proc) | 從檔案取的所有行資料 | file_lines |
 | Q2 d2 (in main) | 圖書館的書籍資料清單  | book_list |
-| Q3 c_res (in check) | 檢查資源是否存在 |  |
+| Q3 c_res (in check) | 檢查資源是否存在 | book_exists |
 
 ### 1.2 壞味道 (Code Smells) 診斷
 
