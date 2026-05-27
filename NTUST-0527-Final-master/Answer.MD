@@ -18,7 +18,7 @@
 |---|---|---|
 | Q1 l1 (in load_proc) | 從檔案取的所有行資料 | file_lines |
 | Q2 d2 (in main) | 圖書館的書籍資料清單  | book_list |
-| Q3 c_res (in check) | 檢查資源是否存在 | book_exists |
+| Q3 c_res (in check) | 檢查資源是否存在 | _book_exists |
 
 ### 1.2 壞味道 (Code Smells) 診斷
 
@@ -141,8 +141,11 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
-e7f0117 (HEAD -> master) Answer  fix
-f4a33fd (origin/master) first update
+88993fd (HEAD -> master, origin/master) answer fix
+12bf6a3 zip delete
+e7f0117 Answer  fix
+f4a33fd first update
+PS D:\B11409032_吳冠頡> 
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
