@@ -141,6 +141,7 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
+f4a33fd (HEAD -> master, origin/master) first update
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
@@ -149,6 +150,7 @@ Updated
 
 ```log
 # 請貼上你的 Repo 網址
+https://github.com/kuanjiTW/B11409032-0527-Final
 ```
 
 希望這兩份 Markdown 格式能幫你省下不少排版時間！祝你的考試順利舉行！
